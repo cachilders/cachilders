@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm mostly obsessed with music and language; so the majority of my personal code is attempting to wedge machine learning and randomness into those things. I work for Mindbody in Marketing Automation.
 
 <!--
 **cachilders/cachilders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

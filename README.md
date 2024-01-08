@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm mostly obsessed with music and language. Lately I'm about Lua, Max, and Supercollider.
+I'm mostly obsessed with music and language. Lately I'm about Lua, PD, and Supercollider.
 
 <!--
 **cachilders/cachilders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
